@@ -17,5 +17,5 @@ redirect_from:
 
 # Recent News
 * December 19, 2019. Our paper "Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform " accepted to ICLR 2020.
-* October 31, 2019. I gave an oral presentation on ["Weakly Supervised Energy-Based Learning for Action Segmentation"](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf) at ICCV 2019(Seoul, South Korea)
+* October 31, 2019. I gave an [oral presentation](https://conftube.com/video/8oUPyhwzIDo?tocitem=70) on ["Weakly Supervised Energy-Based Learning for Action Segmentation"](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf) at ICCV 2019 (Seoul, South Korea)
 * July 22, 2019. Our paper ["Weakly Supervised Energy-Based Learning for Action Segmentation"](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf) accepted to ICCV 2019.
