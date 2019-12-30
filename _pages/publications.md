@@ -14,7 +14,7 @@ author_profile: true
 <i>International Conf. on Computer Vision 2019</i>. <b>ICCV 2019</b>.<br>
 [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf)
 
-<b>[Dense Transformer Networks for Brain Electron Microscopy Image Segmentation](https://www.ijcai.org/proceedings/2019/0401.pdf)</b> <br> 
+<b>Dense Transformer Networks for Brain Electron Microscopy Image Segmentation</b> <br> 
 <b>Jun Li</b>, Yongjun Chen, Lei Cai, Ian Davidson, Shuiwang Ji.
 <i>Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2019</b>.<br>
 [paper](https://www.ijcai.org/proceedings/2019/0401.pdf)
