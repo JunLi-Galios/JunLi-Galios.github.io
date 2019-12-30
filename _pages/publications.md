@@ -7,7 +7,7 @@ author_profile: true
 <b>Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform</b> <br> 
 <i>The 8th International Conference on Learning Representations</i>. <b>ICLR 2020</b>.<br>
 <b>Jun Li</b>, Fuxin Li, Sinisa Todorovic.<br>
-[paper](https://openreview.net/pdf?id=HJxV-ANKDH)
+[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf)
 
 
 <b>Weakly Supervised Energy-Based Learning for Action Segmentation</b> <br> 
