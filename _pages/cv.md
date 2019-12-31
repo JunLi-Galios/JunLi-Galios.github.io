@@ -4,7 +4,7 @@ title: "Jun Li"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /https://github.com/JunLi-Galios/JunLi-Galios.github.io/blob/master/files/Jun_Li_s_resume.pdf
 ---
 
 {% include base_path %}
