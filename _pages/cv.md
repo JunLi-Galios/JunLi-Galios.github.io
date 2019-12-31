@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Jun Li's CV[[Download](http://junli-galios.github.io/files/Jun_Li_s_resume.pdf)]
-
 Education
 ======
 * Ph.D. Student, Computer Science, [Oregon State University](https://oregonstate.edu/), Sep 2017 - Present
