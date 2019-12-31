@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Jun Li's CV](http://junli-galios.github.io/files/Jun_Li_s_resume.pdf)
+Jun Li's CV[[Download](http://junli-galios.github.io/files/Jun_Li_s_resume.pdf)]
 
 Education
 ======
