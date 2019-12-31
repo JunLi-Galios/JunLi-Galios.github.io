@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Jun Li"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /https://github.com/JunLi-Galios/JunLi-Galios.github.io/blob/master/files/Jun_Li_s_resume.pdf
+  - /resume
 ---
 
 {% include base_path %}
