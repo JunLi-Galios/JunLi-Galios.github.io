@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "Jun Li"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /Jun_Li_s_resume
+  - /resume
 ---
 
 {% include base_path %}
