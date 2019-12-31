@@ -22,7 +22,6 @@ redirect_from:
 
 
 # Publications
-======
 * <b>Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform</b> <br> 
   <i>The 8th International Conference on Learning Representations</i>. <b>ICLR 2020</b>.<br>
   <b>Jun Li</b>, Fuxin Li, Sinisa Todorovic.<br>
