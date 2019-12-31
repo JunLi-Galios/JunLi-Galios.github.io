@@ -22,4 +22,4 @@ Work experience
   * Aibee US Corporation
   * Job description: numerical optimization for speeding up training of eid classification, model distillation for speeding up inference of reid classification.
   
-[CV](https://github.com/JunLi-Galios/JunLi-Galios.github.io/blob/master/files/Jun_Li_s_resume.pdf)
+[CV](/Jun_Li_s_resume.pdf)
