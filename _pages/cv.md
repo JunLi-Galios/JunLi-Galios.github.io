@@ -13,8 +13,8 @@ Jun Li's CV[[Download](http://junli-galios.github.io/files/Jun_Li_s_resume.pdf)]
 
 Education
 ======
-* Ph.D. Student, Computer Science, [Oregon State University](https://oregonstate.edu/) Sep 2017 - Present
-* Ph.D. Student, Computer Science, [Washington State University](https://wsu.edu/) Aug 2015 - Aug 2017
+* Ph.D. Student, Computer Science, [Oregon State University](https://oregonstate.edu/), Sep 2017 - Present
+* Ph.D. Student, Computer Science, [Washington State University](https://wsu.edu/), Aug 2015 - Aug 2017
 * B.S. Mathematics, [Fudan University](https://www.fudan.edu.cn/), Sep 2006 - June 2010
 
 
