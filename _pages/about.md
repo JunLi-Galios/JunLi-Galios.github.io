@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me[[CV](http://junli-galios.github.io/files/Jun_Li_s_resume.pdf)]"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
