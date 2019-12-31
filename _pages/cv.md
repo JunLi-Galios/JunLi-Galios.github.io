@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Jun Li's CV](http://junli-galios.github.io/files/Jun_Li_s_resume.pdf)
+
 Education
 ======
 * Ph.D. Student, Computer Science, [Oregon State University](https://oregonstate.edu/) Sep 2017 - Present
@@ -40,5 +42,3 @@ Publications
   <b>Jun Li</b>, Yongjun Chen, Lei Cai, Ian Davidson, Shuiwang Ji.<br>
   [[paper](https://www.ijcai.org/proceedings/2019/0401.pdf)][[code](https://github.com/divelab/dtn)]
 
-
-[Download Jun Li's CV](http://junli-galios.github.io/files/Jun_Li_s_resume.pdf)
