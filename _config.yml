@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jun Li"
-description              : &description "Ph.D. student, Computer Science, Stanford University"
+description              : &description "Ph.D. candidate, Computer Science, Stanford University"
 url                      : https://JunLi-Galios.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JunLi-Galios/JunLi-Galios.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Jun Li"
   avatar           : "DSC_3946.jpg"
-  bio              : "Ph.D. student, Computer Science, Oregon State University"
+  bio              : "Ph.D. candidate, Computer Science, Oregon State University"
   location         : "Corvallis, Oregon"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=dY3O3qsAAAAJ&hl=zh-CN"
