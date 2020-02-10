@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am a Ph.D. student in the Electrical Engineering and Computer Science Department at [Oregon State University](https://oregonstate.edu/), advised by Prof.[Sinisa Todorovic](http://web.engr.oregonstate.edu/~sinisa/). 
+* I am a Ph.D. candidate in the Electrical Engineering and Computer Science Department at [Oregon State University](https://oregonstate.edu/), advised by Prof.[Sinisa Todorovic](http://web.engr.oregonstate.edu/~sinisa/). 
 * My research interests lie in the general area of machine learning, particularly in deep learning, optimization, Bayesian learning,  information geometry, as well as their applications in meta-learning and computer vision.
 * I received my Bachelor’s Degree in [Fudan University](https://www.fudan.edu.cn/). My undergraduate major was mathematics.
 
