@@ -3,7 +3,11 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-
+* <b>Set-Constrained Viterbi for Set-Supervised Action Segmentation</b> <br> 
+  <i>Conference on Computer Vision and Pattern Recognition 2020</i>. <b>CVPR 2020</b>.<br>
+  <b>Jun Li</b>, Sinisa Todorovic.<br>
+ 
+  
 * <b>Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform</b> <br> 
   <i>The 8th International Conference on Learning Representations</i>. <b>ICLR 2020</b>.<br>
   <b>Jun Li</b>, Fuxin Li, Sinisa Todorovic.<br>
