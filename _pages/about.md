@@ -26,6 +26,7 @@ redirect_from:
 * <b>Set-Constrained Viterbi for Set-Supervised Action Segmentation</b> <br> 
   <i>Conference on Computer Vision and Pattern Recognition 2020</i>. <b>CVPR 2020</b>.<br>
   <b>Jun Li</b>, Sinisa Todorovic.<br>
+  [[paper](https://arxiv.org/pdf/2002.11925.pdf)]
   
 * <b>Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform</b> <br> 
   <i>The 8th International Conference on Learning Representations</i>. <b>ICLR 2020</b>.<br>
