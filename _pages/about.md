@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Recent News
-* July 4, 2020. I am looking for a postdoc postion. Anyone who is interested in hiring me please contact me.
+* July 4, 2020. I am looking for a postdoc postion. Anyone who is interested in working with me please contact me.
 * February 23, 2020. Our <b>paper</b> "Set-Constrained Viterbi for Set-Supervised Action Segmentation" accepted to <b>CVPR 2020</b>.
 * December 19, 2019. Our <b>paper</b> "Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform" accepted to <b>ICLR 2020</b>.
 * October 31, 2019. I gave an <b>oral presentation</b> on "Weakly Supervised Energy-Based Learning for Action Segmentation" at <b>ICCV 2019</b> (Seoul, South Korea).
