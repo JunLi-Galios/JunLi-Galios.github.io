@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 
-* I am a Ph.D. candidate in the Electrical Engineering and Computer Science Department at [Oregon State University](https://oregonstate.edu/), advised by Prof.[Sinisa Todorovic](http://web.engr.oregonstate.edu/~sinisa/). 
+* I am a visiting researcher at [Baidu Research Seattle](http://research.baidu.com/). 
 * My research interests lie in the general area of machine learning, particularly in deep learning, optimization, Bayesian learning,  information geometry, as well as their applications in meta-learning and computer vision.
+* I received my Ph.D. Degree in the Electrical Engineering and Computer Science Department at [Oregon State University](https://oregonstate.edu/), advised by Prof.[Sinisa Todorovic](http://web.engr.oregonstate.edu/~sinisa/). 
 * I received my Bachelor’s Degree in mathematics at [Fudan University](https://www.fudan.edu.cn/).
 
 
 
 # Recent News
+* Fev 10, 2021. I joined Baidu Research as a visiting researcher.
 * Dec 8, 2020. I passed My PhD final oral exam at Oregon State University.
 * February 23, 2020. Our <b>paper</b> "Set-Constrained Viterbi for Set-Supervised Action Segmentation" accepted to <b>CVPR 2020</b>.
 * December 19, 2019. Our <b>paper</b> "Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform" accepted to <b>ICLR 2020</b>.
