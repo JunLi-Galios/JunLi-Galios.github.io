@@ -11,8 +11,8 @@ redirect_from:
 
 * I am a visiting researcher at [Baidu Research Seattle](http://research.baidu.com/). 
 * My research interests lie in the general area of machine learning, particularly in deep learning, optimization, Bayesian learning,  information geometry, as well as their applications in meta-learning and computer vision.
-* I received my Ph.D. Degree in the Electrical Engineering and Computer Science Department at [Oregon State University](https://oregonstate.edu/), advised by Prof.[Sinisa Todorovic](http://web.engr.oregonstate.edu/~sinisa/). 
-* I received my Bachelor’s Degree in mathematics at [Fudan University](https://www.fudan.edu.cn/).
+* I received my Ph.D. Degree in the Electrical Engineering and Computer Science Department at [Oregon State University](https://oregonstate.edu/) in 2020, advised by Prof.[Sinisa Todorovic](http://web.engr.oregonstate.edu/~sinisa/). 
+* I received my Bachelor’s Degree in mathematics at [Fudan University](https://www.fudan.edu.cn/) in 2010.
 
 
 
