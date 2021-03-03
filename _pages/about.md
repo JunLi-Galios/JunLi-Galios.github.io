@@ -17,7 +17,8 @@ redirect_from:
 
 
 # Recent News
-* Fev 10, 2021. I joined Baidu Research as a visiting researcher.
+* Feb 28, 2021. Our 2 papers accepted to CVPR 2021.
+* Feb 10, 2021. I joined Baidu Research as a visiting researcher.
 * Dec 8, 2020. I passed My PhD final oral exam at Oregon State University.
 * February 23, 2020. Our <b>paper</b> "Set-Constrained Viterbi for Set-Supervised Action Segmentation" accepted to <b>CVPR 2020</b>.
 * December 19, 2019. Our <b>paper</b> "Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform" accepted to <b>ICLR 2020</b>.
@@ -26,6 +27,14 @@ redirect_from:
 
 
 # Publications
+* <b>Action Shuffle Alternating Learning for Unsupervised Action Segmentation</b> <br> 
+  <i>Conference on Computer Vision and Pattern Recognition 2021</i>. <b>CVPR 2021</b>.<br>
+  <b>Jun Li</b>, Sinisa Todorovic.<br>
+
+* <b>Anchor-Constrained Viterbi for Set-Supervised Action Segmentation</b> <br> 
+  <i>Conference on Computer Vision and Pattern Recognition 2021</i>. <b>CVPR 2021</b>.<br>
+  <b>Jun Li</b>, Sinisa Todorovic.<br>
+
 * <b>Set-Constrained Viterbi for Set-Supervised Action Segmentation</b> <br> 
   <i>Conference on Computer Vision and Pattern Recognition 2020</i>. <b>CVPR 2020</b>.<br>
   <b>Jun Li</b>, Sinisa Todorovic.<br>
