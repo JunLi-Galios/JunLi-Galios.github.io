@@ -3,6 +3,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* <b>Action Shuffle Alternating Learning for Unsupervised Action Segmentation</b> <br> 
+  <i>Conference on Computer Vision and Pattern Recognition 2021</i>. <b>CVPR 2021</b>.<br>
+  <b>Jun Li</b>, Sinisa Todorovic.<br>
+  
+* <b>Anchor-Constrained Viterbi for Set-Supervised Action Segmentation</b> <br> 
+  <i>Conference on Computer Vision and Pattern Recognition 2021</i>. <b>CVPR 2021</b>.<br>
+  <b>Jun Li</b>, Sinisa Todorovic.<br>
+
 * <b>Set-Constrained Viterbi for Set-Supervised Action Segmentation</b> <br> 
   <i>Conference on Computer Vision and Pattern Recognition 2020</i>. <b>CVPR 2020</b>.<br>
   <b>Jun Li</b>, Sinisa Todorovic.<br>
