@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* Aug 8, 2022. I joined IICS lab at Fudan university as a tenure-track assistant professor.
 * Jan 25, 2022. Our 2 papers accepted to ICLR 2022.
 * Feb 28, 2021. Our 2 papers accepted to CVPR 2021.
 * Feb 10, 2021. I joined Baidu Research as a visiting researcher.
@@ -28,6 +29,10 @@ redirect_from:
 
 
 # Publications
+* <b>A Tale of Two Flows- Cooperative Learning of Langevin Flow and Normalizing Flow toward Energy-Based Model</b> <br> 
+  <i>The 10th International Conference on Learning Representations</i>. <b>ICLR 2022</b>.<br>
+  Jianwen Xie, Yaxuan Zhu, <b>Jun Li</b>, Ping Li.<br>
+  
 * <b>Constructing Orthogonal Convolutions in an Explicit Manner</b> <br> 
   <i>The 10th International Conference on Learning Representations</i>. <b>ICLR 2022</b>.<br>
   Tan Yu, <b>Jun Li</b>, Yunfeng Cai, Ping Li.<br>
