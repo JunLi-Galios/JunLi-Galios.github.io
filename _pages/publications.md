@@ -3,6 +3,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* <b>A Tale of Two Flows- Cooperative Learning of Langevin Flow and Normalizing Flow toward Energy-Based Model</b> <br> 
+  <i>The 10th International Conference on Learning Representations</i>. <b>ICLR 2022</b>.<br>
+  Jianwen Xie, Yaxuan Zhu, <b>Jun Li</b>, Ping Li.<br>
+  
+* <b>Constructing Orthogonal Convolutions in an Explicit Manner</b> <br> 
+  <i>The 10th International Conference on Learning Representations</i>. <b>ICLR 2022</b>.<br>
+  Tan Yu, <b>Jun Li</b>, Yunfeng Cai, Ping Li.<br>
+
 * <b>Action Shuffle Alternating Learning for Unsupervised Action Segmentation</b> <br> 
   <i>Conference on Computer Vision and Pattern Recognition 2021</i>. <b>CVPR 2021</b>.<br>
   <b>Jun Li</b>, Sinisa Todorovic.<br>
