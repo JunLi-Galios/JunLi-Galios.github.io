@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am a visiting researcher at [Baidu Research Seattle](http://research.baidu.com/). 
+* I am a tenure-track assistant professor at [IICS lab](https://iics.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/). 
 * My research interests lie in the general area of machine learning, particularly in deep learning, optimization, Bayesian learning,  information geometry, as well as their applications in meta-learning and computer vision.
 * I received my Ph.D. Degree in the Electrical Engineering and Computer Science Department at [Oregon State University](https://oregonstate.edu/) in 2020, advised by Prof.[Sinisa Todorovic](http://web.engr.oregonstate.edu/~sinisa/). 
 * I received my Bachelor’s Degree in mathematics at [Fudan University](https://www.fudan.edu.cn/) in 2010.
@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* Jan 25, 2022. Our 2 papers accepted to ICLR 2022.
 * Feb 28, 2021. Our 2 papers accepted to CVPR 2021.
 * Feb 10, 2021. I joined Baidu Research as a visiting researcher.
 * Dec 8, 2020. I passed My PhD final oral exam at Oregon State University.
@@ -27,6 +28,10 @@ redirect_from:
 
 
 # Publications
+* <b>Constructing Orthogonal Convolutions in an Explicit Manner</b> <br> 
+  <i>The 10th International Conference on Learning Representations</i>. <b>ICLR 2022</b>.<br>
+  Tan Yu, <b>Jun Li</b>, Yunfeng Cai, Ping Li.<br>
+
 * <b>Action Shuffle Alternating Learning for Unsupervised Action Segmentation</b> <br> 
   <i>Conference on Computer Vision and Pattern Recognition 2021</i>. <b>CVPR 2021</b>.<br>
   <b>Jun Li</b>, Sinisa Todorovic.<br>
