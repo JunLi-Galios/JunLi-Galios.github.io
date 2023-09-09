@@ -22,7 +22,7 @@ redirect_from:
 # Publications
 * Ruizhe Zheng*, <b>Jun Li*</b>, Yi Wang, Tian Luo, Yuguo Yu. <br>
   <b>ScatterFormer: Locally-Invariant Scattering Transformer for Patient-Independent Multispectral Detection of Epileptiform Discharges</b> <br> 
-  <i>The 37th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2023</b>. (equal contribution)<br>
+  <i>The 37th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2023 (Oral)</b>. (equal contribution)<br>
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25086)]
 
 * Jianwen Xie, Yaxuan Zhu, <b>Jun Li</b>, Ping Li.<br>
