@@ -14,7 +14,10 @@ redirect_from:
 
 Work experience
 ======
-* June 2020 - Sep 2020: Machine Learning Visiting Researcher
+* Aug 2022 - Now: Assistant Professor
+  * Fudan University
+  * Job description: Develop new machine learning theories and algorithms.
+* Feb 2021 - Mar 2022: Machine Learning Visiting Researcher
   * Baidu Research Seattle
   * Job description: Study state-of-the-art machine learning and computer vision approaches. Publishing paper at top conferences.
 * June 2020 - Sep 2020: Machine Learning Research Internship
@@ -24,11 +27,6 @@ Work experience
   * Aibee US Corporation
   * Job description: numerical optimization for speeding up training of eid classification, model distillation for speeding up inference of reid classification.
 
-
-Award
-======
-* ICLR 2020 travel award
-* ICCV 2019 travel award
 
 
 Teaching
