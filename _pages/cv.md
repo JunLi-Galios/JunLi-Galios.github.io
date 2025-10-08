@@ -29,9 +29,9 @@ Work experience
 
 Service
 ======
-* Editor at Electronics 2025 - Now
-* Session Chair at International Joint Conference on Neural Networks (IJCNN) 2024
-* Program Committee at NeurIPS, ICML, ICLR, CVPR, ICCV, etc.
+* **Editor** at Electronics 2025 - Now
+* **Session Chair** at International Joint Conference on Neural Networks (IJCNN) 2024
+* **Program Committee** at NeurIPS, ICML, ICLR, CVPR, ICCV, etc.
 
 
 Teaching
