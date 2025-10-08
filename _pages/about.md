@@ -23,8 +23,8 @@ redirect_from:
 * Zitao Yang, Amin Ullah, Shuai Li, Fuxin Li, <b>Jun Li</b> <br>
   <b>Convex Potential Mirror Langevin Algorithm for Efficient Sampling of Energy-Based Models</b> <br> 
   <i>The Thirty-Ninth Annual Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2025</b>. <br>
+  
 * Ruizhe Zheng*, <b>Jun Li*</b>, Yi Wang, Tian Luo, Yuguo Yu. <br>
-
   <b>ScatterFormer: Locally-Invariant Scattering Transformer for Patient-Independent Multispectral Detection of Epileptiform Discharges</b> <br> 
   <i>The 37th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2023 (Oral)</b>. (equal contribution)<br>
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25086)]
