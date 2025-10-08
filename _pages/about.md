@@ -11,8 +11,8 @@ redirect_from:
 
 * I am a tenure-track assistant professor at [IICS lab](https://iics.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/). 
 * My research interests lie in the general area of machine learning, particularly in deep learning, generative AI, computer vision, and optimization.
-* I received my Ph.D. Degree in the Electrical Engineering and Computer Science Department at [Oregon State University](https://oregonstate.edu/) in 2020, advised by Prof.[Sinisa Todorovic](http://web.engr.oregonstate.edu/~sinisa/). 
-* I received my Bachelor’s Degree in mathematics at [Fudan University](https://www.fudan.edu.cn/) in 2010.
+* I received my Ph.D. Degree in the Electrical Engineering and Computer Science Department at [Oregon State University](https://oregonstate.edu/), advised by Prof.[Sinisa Todorovic](http://web.engr.oregonstate.edu/~sinisa/). 
+* I received my Bachelor’s Degree in mathematics at [Fudan University](https://www.fudan.edu.cn/).
 
 
 
